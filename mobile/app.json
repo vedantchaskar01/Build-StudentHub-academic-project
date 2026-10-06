@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "StudentHub",
+    "slug": "studenthub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "resizeMode": "contain", "backgroundColor": "#f6f3ed" },
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "backgroundColor": "#f6f3ed" } },
+    "plugins": ["expo-camera"]
+  }
+}
